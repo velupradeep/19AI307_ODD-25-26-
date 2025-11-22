@@ -48,8 +48,8 @@ To implement type casting.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: MURALI KRISHNA S
-RegisterNumber: 212223230129
+Developed by: PRADEEP V
+RegisterNumber: 212223240119
 */
 
 
