@@ -24,8 +24,8 @@ To define a class Teacher with attributes: name (String), subject (String), and 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: MURALI KRISHNA S
-RegisterNumber:  212223230129
+Developed by: PRADEEP V
+RegisterNumber:  212223240119
 */
 
 
@@ -72,6 +72,7 @@ class prog {
 
 ## RESULT:
 The given program has been executed and verified successfully
+
 
 
 
